@@ -1,6 +1,6 @@
 # UKM Carpool
 
-Local S1 foundation and static Figma previews for UKM Carpool. Ten screens are available; four are pending access to their Figma design context. All controls are visual only and do not submit data.
+Local S1 foundation and static Figma previews for UKM Carpool. All fourteen Figma screens are available as static previews. All controls are visual only and do not submit data.
 
 Install Node.js 24 LTS, then run `npm install` and `npm start` in this folder.
 Visit http://localhost:3000/ for the static sign-in design and http://localhost:3000/screens.html for the screen catalogue. The original environment check is at http://localhost:3000/s1-health.html, and the API is at http://localhost:3000/api/health.
