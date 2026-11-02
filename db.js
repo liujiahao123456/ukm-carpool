@@ -1,6 +1,6 @@
 const mysql = require('mysql2/promise');
 
-function config(database = process.env.DB_NAME || 'ukm_carpool_s1') {
+function config(database = process.env.DB_NAME || 'ukm_carpool') {
   return {
     host: process.env.DB_HOST || '127.0.0.1',
     port: Number(process.env.DB_PORT || 3306),
